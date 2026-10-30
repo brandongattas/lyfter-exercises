@@ -1,0 +1,19 @@
+PS C:\Users\user9\git\Lyfter_Exercises> git log
+commit 56a093d5698d543d21968277083897ab6c9e0eab (HEAD -> past_exercises, origin/past_exercises)
+Author: Brandon Gattas <brandon.gattas@gmail.com>
+Date:   Fri Oct 30 15:40:43 2026 -0400
+
+    Committing all past exercises
+
+commit 75556953ec6b7cc240521ab340da66e3c1a3062e (origin/main, origin/HEAD, main)
+Author: brandongattas <96361029+brandongattas@users.noreply.github.com>
+Date:   Fri Oct 30 15:34:20 2026 -0400
+
+    Initial commit
+
+
+Informacion detallada:
+
+56a093d (HEAD -> past_exercises, origin/past_exercises) HEAD@{0}: commit: Committing all past exercises
+7555695 (origin/main, origin/HEAD, main) HEAD@{1}: checkout: moving from main to past_exercises
+7555695 (origin/main, origin/HEAD, main) HEAD@{2}: clone: from https://github.com/brandongattas/Lyfter_Exercises.git
