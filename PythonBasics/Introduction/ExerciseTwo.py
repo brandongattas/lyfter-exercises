@@ -1,0 +1,8 @@
+print(1+1)
+print(90-430)
+print(90%10)
+print(11%2)
+print(52/8)
+print(58//7)
+print(50*4)
+print(2**4)
